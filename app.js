@@ -31,7 +31,7 @@ function postData() {
     var options = {
         host: config.mobileservices + 'hackdev.azure-mobile.net',
         port: 443,
-        path: '/tables/table',
+        path: '/tables/' + config.table,
         method: 'POST',
         headers: headers
     };

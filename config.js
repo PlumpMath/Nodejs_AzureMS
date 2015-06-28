@@ -3,5 +3,6 @@
 
 module.exports = {
     mobileservices: 'hackdev',
+    table: 'table',
     appkey: "AZURE-MOBILE-SERVICES-APPLICATION-KEY-HERE"
 }
