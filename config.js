@@ -1,0 +1,7 @@
+﻿//this file holds configuration variables
+//you can add any that you may need for your application
+
+module.exports = {
+    mobileservices: 'hackdev',
+    appkey: "AZURE-MOBILE-SERVICES-APPLICATION-KEY-HERE"
+}
