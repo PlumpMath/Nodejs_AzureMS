@@ -1,4 +1,3 @@
-﻿edref
+Nodejs to Azure Mobile Services
 =====
 
-Reference project for creating Node.js apps for the Intel Edison using Visual Studio
