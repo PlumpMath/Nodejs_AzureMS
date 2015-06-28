@@ -13,10 +13,11 @@ require('cylon').robot({
 function postData() {
 
     var user = {
-        username: 'jasonrwalters',
-        email: 'jwalters@microsoft.com',
         firstName: 'Jason',
-        lastName: 'Walters'
+        lastName: 'Walters',
+        twitter: '@jasonrwalters',
+        email: 'jwalters@microsoft.com',
+        website: 'http://glitchbeam.com'
     };
 
     var userString = JSON.stringify(user);
@@ -29,7 +30,7 @@ function postData() {
     };
 
     var options = {
-        host: config.mobileservices + 'hackdev.azure-mobile.net',
+        host: config.mobileservices + '.azure-mobile.net',
         port: 443,
         path: '/tables/' + config.table,
         method: 'POST',
