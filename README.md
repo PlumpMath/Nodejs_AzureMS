@@ -17,7 +17,7 @@
 
 ##### Editting and Running this Example
 1.  Download and unpack this repo.
-2.  Install Cylon: Open Node.js command prompt, browse to unpacked repo, and type: `npm install cylon`.
+2.  Install [Cylon](http://cylonjs.com/documentation/getting-started/): Open Node.js command prompt, browse to unpacked repo, and type: `npm install cylon`.
 3.  Edit `config.js` file with [Mobile Services Name, Table Name, Application Key].
 4.  Enter data in `app.js` under *postData() > user*.
 5.  Run Example:  Open Node.js command prompt, browse to unpacked repo, and type: `node app.js`.
