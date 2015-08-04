@@ -23,7 +23,8 @@ Node.js example to send data to an Azure Mobile Services Table.
 3.  Edit `config.js` file with [Mobile Services Name, Table Name, Application Key].
 4.  Enter data in `app.js` under *postData() > user*.
 5.  Run Example:  Open Node.js command prompt, browse to unpacked repo, and type: `node app.js`.
-6.  Check your newly created Table in Azure Mobile Services:
+
+Now review your Table in Azure Mobile Services and it should look similar:
 ![Screenshot](http://glitchbeam.blob.core.windows.net/media/2015/08/nodejs_azurems.png)
 
 # Support
