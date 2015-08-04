@@ -1,3 +1,8 @@
+# Table of Contents
+1.  [Requirements](#requirements) - Required installations for this example.
+2.  [Getting Started](#getting-started) - How to run this example.
+6.  [Support](#support) - Have questions?  Run into an issue?  Ask here.
+
 # Requirements
 1.  Install [Visual Studio Community](http://visualstudio.com)
 2.  Install [Node.js](https://nodejs.org/)
@@ -13,3 +18,6 @@
 7.  Edit `config.js` file with [Mobile Services Name, Table Name, Application Key].
 8.  Enter data in `app.js` under *postData() > user*.
 9.  To run repo example:  Open Node.js command prompt, browse to unpacked repo, and type: `node app.js`.
+
+# Support
+Please create an [issue ticket](https://github.com/jasonrwalters/Nodejs_AzureMS/issues) for questions and issues. Thank you.
