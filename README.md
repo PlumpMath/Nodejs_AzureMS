@@ -5,7 +5,7 @@
 4.  [Support](#support) - Have questions?  Run into an issue?  Ask here.
 
 # Description
-Basic Node.js example to send data to an Azure Mobile Services Table.
+Node.js example to send data to an Azure Mobile Services Table.
 
 # Requirements
 1.  Install [Visual Studio Community](http://visualstudio.com)
