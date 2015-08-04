@@ -1,11 +1,9 @@
-# Table of Contents
-1.  [Description](#description) - Example details.
-2.  [Requirements](#requirements) - Required installations for this example.
-3.  [Getting Started](#getting-started) - How to run this example.
-4.  [Support](#support) - Have questions?  Run into an issue?  Ask here.
-
-# Description
 Node.js example to send data to an Azure Mobile Services Table.
+
+# Table of Contents
+1.  [Requirements](#requirements) - Required installations for this example.
+2.  [Getting Started](#getting-started) - How to run this example.
+3.  [Support](#support) - Have questions?  Run into an issue?  Ask here.
 
 # Requirements
 1.  Install [Visual Studio Community](http://visualstudio.com)
